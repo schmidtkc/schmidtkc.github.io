@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a fifth-year Ph.D. candidate in Taxation at the University of Mannheim in Germany. My research explores how firms react to (inter-)national tax policies.
 
-You can find my CV [here](https://schmidtkc.github.io/files/CV.pdf)
+You can find my CV [here](https://schmidtkatharina.github.io/files/CV.pdf)
 
 
 
