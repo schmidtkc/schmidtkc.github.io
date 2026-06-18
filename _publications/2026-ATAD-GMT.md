@@ -1,6 +1,6 @@
 ---
 title: "Rethinking Anti-Tax Avoidance Measures in the European Union"
-coauthors: 'C. Spengel, J. Gaul, A. G¨obel, E. Gschossmann, H. Gundert, F. Jungmann, D. Kaeshammer, C. Kindler, A. Pfrang, T. T. Porebski, C. Schmidt, I. Schulz, J. Spix, S. Weck, S. Wickel, and S. Winter'
+coauthors: 'C. Spengel, J. Gaul, A. Goebel, E. Gschossmann, H. Gundert, F. Jungmann, D. Kaeshammer, C. Kindler, A. Pfrang, T. T. Porebski, C. Schmidt, I. Schulz, J. Spix, S. Weck, S. Wickel, and S. Winter'
 collection: publications
 category: wp
 permalink: /publication/2026-ATAD-GMT
