@@ -1,5 +1,6 @@
 ---
 title: "The Interaction of Carbon Emissions and Shareholder Taxes in Shaping Firm Behaviour"
+coauthors: 'Harry Huizinga and Johannes Voget'
 collection: publications
 category: wp
 permalink: /publication/2026-Emissions
