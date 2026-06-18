@@ -10,8 +10,6 @@ slidesurl:
 paperurl: 
 bibtexurl: 
 citation: 
-
-# Custom media coverage fields
 media_article_title: 
 media_article_url: 
 media_video_title: 
