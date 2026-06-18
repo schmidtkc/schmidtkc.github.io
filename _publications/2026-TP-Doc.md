@@ -10,8 +10,6 @@ slidesurl:
 paperurl: 'https://doi.org/10.1016/j.jpubeco.2026.105565'
 bibtexurl: 
 citation: 
-
-# Custom media coverage fields
 media_article_title: 
 media_article_url: 
 media_video_title: "Research in a Minute video for the Mannheim Business School"
@@ -19,4 +17,4 @@ media_video_url: "https://youtu.be/RIey-U7WtSA?si=CcEJfT33DgwHt_Dz"
 ---
 
 ---
-# Add text here if needed
+
