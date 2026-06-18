@@ -1,5 +1,6 @@
 ---
 title: "The Effect of Transfer Pricing Documentation Requirements on Tax Compliance Costs and Administrative Costs"
+coauthors: 'Nadine Riedel, Johannes Voget and Sophia Wickel'
 collection: publications
 category: wp
 permalink: /publication/2026-Compliance-Costs
