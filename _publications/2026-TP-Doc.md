@@ -9,7 +9,7 @@ venue: 'Journal of Public Economics'
 slidesurl: 
 paperurl: 'https://doi.org/10.1016/j.jpubeco.2026.105565'
 bibtexurl: 
-citation: 'Cite as: XYZ'
+citation: 
 
 # Custom media coverage fields
 media_article_title: 
